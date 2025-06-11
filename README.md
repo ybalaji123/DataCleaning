@@ -19,7 +19,7 @@ A user-friendly web application that simplifies data cleaning tasks for data ana
 
 ## 🌐 Live Demo
 
-**🔗 [link]**(https://dataoptimizer.netlify.app/)
+ [link](https://dataoptimizer.netlify.app/)
 ---
 
 ## 🛠️ Tech Stack
@@ -58,7 +58,7 @@ Open your browser and go to `http://127.0.0.1:5000/`.
 
 ## 📸 Screenshots
 
-![Home Page](https://github.com/ybalaji123/DataCleaning/blob/main/Screenshot%202025-06-11%20202216.png)
+![Home Page](https://github.com/ybalaji123/DataCleaning/blob/main/Screenshot%202025-06-11%20202143.png)
 ![Upload CSV](screenshots/upload.png)
 ![Cleaned Output](screenshots/output.png)
 
