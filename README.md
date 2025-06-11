@@ -59,7 +59,8 @@ Open your browser and go to `http://127.0.0.1:5000/`.
 ## 📸 Screenshots
 Home Page
 ![Home Page](https://github.com/ybalaji123/DataCleaning/blob/main/Screenshot%202025-06-11%20202143.png)
-![Upload CSV](screenshots/upload.png)
+uploding process 
+![Upload CSV]https://github.com/ybalaji123/DataCleaning/blob/main/Screenshot%202025-06-11%20202200.png)
 ![Cleaned Output](screenshots/output.png)
 
 > *(Add screenshots in a `screenshots/` folder to make this section more engaging)*
