@@ -1,51 +1,85 @@
-# Data Cleaning
 
-## 📌 Overview
-Data Cleaning Master is a web-based tool that automates the cleaning of datasets by handling missing values, removing duplicates, and exporting cleaned data. It supports CSV and Excel files and provides a user-friendly interface to visualize the cleaning process.
+# 🧹 Data Cleaning Website
 
-## 🚀 Live Demo: https://dataoptimizer.netlify.app/
+A user-friendly web application that simplifies data cleaning tasks for data analysts and enthusiasts. This tool helps automate and perform basic to advanced data cleaning operations using a simple browser interface — no coding required.
 
-## ✨ Features
-✔ Supports CSV & Excel files
-✔ Removes duplicate rows
-✔ Handles missing values (fills numeric columns with mean, drops missing non-numeric rows)
-✔ Real-time progress tracking
-✔ Download cleaned dataset
-✔ Responsive & interactive UI
+---
 
-## 🛠 Technologies Used
-**Frontend:** HTML, CSS, JavaScript
+## 🔧 Features
 
-**Hosting:** Netlify (Static Site)
+- ✅ Upload CSV files for cleaning
+- 🔍 Handle missing values (drop, fill, forward fill)
+- ✂️ Remove duplicates
+- 🧠 Rename or drop columns
+- 📊 Data type conversion
+- 📈 Preview and download the cleaned dataset
+- 📁 Export to CSV
 
-## 📥 Installation & Local Setup
-**Option 1:** Direct Deployment (Netlify/GitHub Pages/Vercel)
-Fork this repository.
+---
 
-Deploy to Netlify (drag & drop index.html) or connect your GitHub repo.
+## 🌐 Live Demo
 
-## 📂 Project Structure
-text
-data-cleaning-master/
-├── index.html          # Main HTML file
-├── style.css           # Styling
-├── script.js           # Data cleaning logic
-├── README.md           # This file
+🔗 [Live Demo](https://dataoptimizer.netlify.app/)
+---
 
-## 🚀 How to Use
-Enter Dataset Path (e.g., sales.xlsx).
+## 🛠️ Tech Stack
 
-Enter Dataset Name (e.g., jan_sales).
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Python, Flask
+- **Libraries**: Pandas, NumPy
+- **Deployment**: (Optional — Heroku, Vercel, etc.)
 
-Click "Clean My Data" and wait for the process to complete.
+---
 
-Download the cleaned dataset ([name]_Clean_data.csv).
+## 🚀 Getting Started
 
-## 📜 License
-This project is open-source under the MIT License.
+### 1. Clone the repo
 
-## 📬 Contact
-For questions or feedback:
-📧 [mail](yeminenibalaji092@gmail.com)
-🔗 [Github](https://github.com/ybalaji123)
+```bash
+git clone https://github.com/ybalaji123/data-cleaning-website.git
+cd data-cleaning-website
+```
 
+### 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the app
+
+```bash
+python app.py
+```
+
+Open your browser and go to `http://127.0.0.1:5000/`.
+
+---
+
+## 📸 Screenshots
+
+![Home Page](screenshots/home.png)
+![Upload CSV](screenshots/upload.png)
+![Cleaned Output](screenshots/output.png)
+
+> *(Add screenshots in a `screenshots/` folder to make this section more engaging)*
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repo and submit a pull request.
+
+---
+
+## 🧾 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👤 Author
+
+**Yemineni Balaji**  
+📧 ybalaji123@gmail.com  
+🌐 [GitHub Profile](https://github.com/ybalaji123)
