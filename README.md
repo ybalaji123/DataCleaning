@@ -60,10 +60,9 @@ Open your browser and go to `http://127.0.0.1:5000/`.
 Home Page
 ![Home Page](https://github.com/ybalaji123/DataCleaning/blob/main/Screenshot%202025-06-11%20202143.png)
 uploding process 
-![Upload CSV]https://github.com/ybalaji123/DataCleaning/blob/main/Screenshot%202025-06-11%20202200.png)
-![Cleaned Output](screenshots/output.png)
-
-> *(Add screenshots in a `screenshots/` folder to make this section more engaging)*
+![Alt text](https://github.com/ybalaji123/DataCleaning/blob/main/Screenshot%202025-06-11%20202200.png)
+Cleaned output
+![Cleaned Output](https://github.com/ybalaji123/DataCleaning/blob/main/Screenshot%202025-06-11%20202216.png)
 
 ---
 
@@ -82,5 +81,5 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 **Yemineni Balaji**  
-📧 ybalaji123@gmail.com  
+📧 yeminenibalaji092@gmail.com
 🌐 [GitHub Profile](https://github.com/ybalaji123)
